@@ -4,7 +4,7 @@ Plugin Name: Enterprise Background Processor
 Plugin URI: https://example.com
 Description: An industrial-grade background processing system for WordPress
 Version: 1.0.0
-Author: Your Name
+Author: Deep Rahman
 */
 
 if (!defined('ABSPATH')) {
